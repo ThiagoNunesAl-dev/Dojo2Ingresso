@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.exe
+D:\Thiago\Projetos\C#\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.deps.json
+D:\Thiago\Projetos\C#\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.runtimeconfig.json
+D:\Thiago\Projetos\C#\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.dll
+D:\Thiago\Projetos\C#\DojoIngresso\bin\Debug\netcoreapp3.1\DojoIngresso.pdb
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.dll
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.pdb
+D:\Thiago\Projetos\C#\DojoIngresso\obj\Debug\netcoreapp3.1\DojoIngresso.genruntimeconfig.cache
